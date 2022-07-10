@@ -33,7 +33,7 @@ Creating login and logout system. Working on delete and update of a blog post.
 | | |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="1" src="readme_resources/1.png"> | <img width="1604" alt="2" src="readme_resources/2.png">|
-|<img width="1604" alt="4" src="readme_resources/4.png">  |  <img width="1604" alt="5" src="readme_resources/5.png">|
+|<img width="1604" alt="3" src="readme_resources/3.png">  |  <img width="1604" alt="4" src="readme_resources/4.png">|
 
 
 
