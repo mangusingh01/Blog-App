@@ -13,18 +13,14 @@ Website to read and upload a blog.
 * Flask
 * SQLite
 
-<!--
 ## Components
 
-### Login and Register
-User have to register and login first to access the web.
+### Home Page
+User can see all the blog and read them by clicking on each blog.
 
-### Create Deck
-User can create a deck and add cards into the deck.
+### Add post
+User can add there post and it will be reflected on home page.
 
-### Update and Delete Deck
-User can delete and update decks.
--->
 ## Ongoing work :man_technologist:
 Creating login and logout system. Working on delete and update of a blog post.
 
